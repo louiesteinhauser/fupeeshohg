@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gociseesae.joy-lang.org/sitemap.xml
